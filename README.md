@@ -19,7 +19,7 @@ Ek complete chhoti **book store website** — sirf HTML, CSS aur JavaScript se, 
 💻 Free online editor: https://techbroz-code.sites.tab.bot/ (wahan "🌐 Website live karo" dabao aur apni site online karo)
 
 ## Video
-- YouTube Short: link soon
-- Instagram Reel: link soon
+- YouTube Short: https://youtube.com/shorts/_TsFfiTi__s
+- Instagram Reel: https://www.instagram.com/reel/DfTXzfXjEJn/
 
 Made by **Tech Bro Z** — YouTube [@techbrozdeveloper](https://www.youtube.com/@techbrozdeveloper) · Instagram [@tech_bro_z_1](https://www.instagram.com/tech_bro_z_1/)
